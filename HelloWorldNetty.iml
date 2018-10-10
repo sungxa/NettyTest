@@ -13,6 +13,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="io.netty:netty-all:4.1.30.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.13.Final" level="project" />
-    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.30.Final" level="project" />
   </component>
 </module>
